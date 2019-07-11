@@ -1,10 +1,19 @@
 # Rapide présentation de docker
+## Qu'est ce qu'un container
+## Qu'est ce que docker
+## Pourquoi docker a changé autant le marché
+### Dockerfile
+### Docker images
+### Docker hub
+### Docker run
+### Docker Engine
 # Docker build
 ## Exemple de build docker
 ## Alléger votre image docker
 # Docker Multi-Stage
 ## Exemple de build multi-stage
-## 
+# Docker Distroless
+## Exemple de build distroless
 
 
 ### Source :
